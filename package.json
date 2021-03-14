@@ -1,0 +1,14 @@
+{
+	"name": "a_shop",
+	"version": "1.0.0",
+	"description": "my first MERN shopping cart",
+	"main": "server.js",
+	"scripts": {
+		"start": "node backend/server"
+	},
+	"author": "Eugene Hrytsenko",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
